@@ -1,6 +1,6 @@
-# MICT Mobile Application
+# MCIT Mobile Application
 
-Mobile application project for the Ministry of Information, Communication and Technology (MICT).
+Mobile application project for the Ministry of Communication and Information Technology (MCIT).
 
 This repository contains the mobile application developed using Flutter. The project is currently at the initial setup stage and will be extended as development progresses.
 
