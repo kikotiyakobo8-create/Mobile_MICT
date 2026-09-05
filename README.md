@@ -17,7 +17,7 @@ The initial Flutter project has been configured with:
 
 - Flutter project structure
 - Android and iOS support
-- MICT/Tanzania branding assets
+- Tanzania logo branding assets
 - Application launcher icon
 - Basic application theme
 - Initial home screen
