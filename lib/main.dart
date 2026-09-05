@@ -72,7 +72,7 @@ class HomePage extends StatelessWidget {
               const SizedBox(height: 10),
 
               const Text(
-                'Welcome to ministry of communication and informationchnology',
+                'Welcome to ministry of communication and information technology',
                 textAlign: TextAlign.center,
                 style: TextStyle(
                   fontSize: 13,
